@@ -47,7 +47,8 @@ for count in range(50, 0,-1):
 for count in range(0,67):
     print(count)
 
-
+for count in range(0,67):
+    print(count)
 
 
 

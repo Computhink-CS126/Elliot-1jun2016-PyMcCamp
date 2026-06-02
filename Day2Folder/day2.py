@@ -63,7 +63,7 @@ for count in range(5,100,5):
     print(count) 
 
 
-for count in range(2,32,2):
+for count in range(2,33,2):
     print(count) 
 
 for count in range(100,0,-1):

@@ -38,7 +38,7 @@ for count in range(5,33):
 
 ########################################################################
 # Task 6:
-for count in range(100, 0,-1):
+for count in range(50, 0,-1):
     print(count)
 
 

@@ -32,7 +32,7 @@ for count in range(1,11):
 
 ########################################################################
 # Task 5:
-for count in range(6,):
+for count in range(5,33):
     print(count)
 
 

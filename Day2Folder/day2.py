@@ -12,7 +12,8 @@ for i in range(100):
 # Task 2:
 name = "ELLIOT"
 
-
+for letter in name:
+    
 
 
 

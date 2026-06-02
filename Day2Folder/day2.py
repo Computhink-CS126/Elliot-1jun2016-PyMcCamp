@@ -13,7 +13,7 @@ for i in range(100):
 name = "ELLIOT"
 
 for letter in name:
-    print('give me an "' + letter + "!" )
+    print('give me an "' + letter + '"!' )
 
 
 

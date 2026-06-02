@@ -78,8 +78,9 @@ for count in range(100,0,-1):
 
 
 for count in range(100,0,-1):
-    print(count) 
-
+    print(count)
+     
+for count in range(4,33,3):
 
 
 

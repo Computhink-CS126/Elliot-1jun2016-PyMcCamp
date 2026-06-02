@@ -16,7 +16,7 @@ name = "EMMA"
 for letter in name:
     print('give me an "' + letter + '"!' )
 print("Who is the best??!?" )
-print("ELLIOT!!")
+print("")
 
 
 ########################################################################

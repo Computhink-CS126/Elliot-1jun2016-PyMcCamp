@@ -10,7 +10,7 @@ for i in range(100):
 
 ########################################################################
 # Task 2:
-# name = "ELLIOT"
+name = "ELLIOT"
 
 # name = "EMMA"
 for letter in name:

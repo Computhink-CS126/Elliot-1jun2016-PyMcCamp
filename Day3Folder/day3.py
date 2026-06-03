@@ -32,9 +32,9 @@ print("hello from day3")
 num_item = input("how many apples do you want,each cost $1")
 total_cost = 1 * num_item
 
-print("")
+print("5 apples ")
 
-# 5 apples cost $5
+# [5] apples cost $[5]
 ########################################################################
 # Task 5:
 

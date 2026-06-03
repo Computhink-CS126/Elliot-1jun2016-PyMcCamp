@@ -8,7 +8,7 @@ name = input("What is your name?")
 title = input("What is your title?")
 command = input("What is your command?")
 
-print("title + name + commands")                  
+print("title + name + commands the phesents")                  
 ########################################################################
 # Task 2:
 

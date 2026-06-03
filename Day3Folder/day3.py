@@ -8,8 +8,7 @@ name = input("What is your name?")
 title = input("What is your title?")
 command = input("What is your command?")
 
-print(titleelliot
-       + name + "commands the paesants to" + command + "!.")                  
+print(title       + name + "commands the paesants to" + command + "!.")                  
 ########################################################################
 # Task 2:
 

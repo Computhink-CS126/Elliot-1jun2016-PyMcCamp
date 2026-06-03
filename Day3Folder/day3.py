@@ -30,7 +30,7 @@ print("hello from day3")
 ########################################################################
 # Task 4:
 num_item = input("how many apples do you want,each cost $1")
-total_ost 
+total_cost = 
 
 ########################################################################
 # Task 5:

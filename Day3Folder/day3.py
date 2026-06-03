@@ -103,8 +103,8 @@ for i in range(3):
     else:
         print("Access Denied")
         tries = tries + 1
-
-print("System has been locked out")
+if tries == 3:
+    print("System has been locked out")
 ########################################################################
 # Task 7:
 

@@ -11,7 +11,7 @@ print("hello from day3")
 # print(title + name + "commands the paesants to" + command + "!.")                  
 ########################################################################
 # Task 2:
-name = input("W")
+name = input("WHt is ")
 num_pen = int(input("num of pens?")) 
 
 

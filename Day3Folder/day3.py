@@ -84,7 +84,7 @@ print("hello from day3")
 # [5] apples cost $[5]
 ########################################################################
 # Task 5:
-age1 = int(input("What is the age of person A"))
+age1 = int(input("What is the age of person A? "))
 age2 = int(input("What is the age of person b"))
 if age1 > age2:
     print("personA is older than personB")
@@ -94,7 +94,7 @@ else:
 ########################################################################
 # Task 6:
 real_password = "passme"
-user_password = input("what is the password")
+user_password = input("what is the password? ")
 if real_password == user_password:
     print("Access Granted!")
 else:

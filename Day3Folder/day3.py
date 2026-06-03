@@ -94,6 +94,7 @@ print("hello from day3")
 ########################################################################
 # Task 6:
 real_password = "passme"
+tries = 0
 for i in range(3):
     user_password = input("what is the password? ")
     if real_password == user_password:
@@ -101,6 +102,7 @@ for i in range(3):
         break
     else:
         print("Access Denied")
+        tries 
 print("System has been locked out")
 ########################################################################
 # Task 7:

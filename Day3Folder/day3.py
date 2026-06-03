@@ -19,7 +19,7 @@ print("hello from day3")
 
 ########################################################################
 # Task 3:
-num1 = input("Give me the first number?")
+num1 = int(input("Give me the first number?"))
 num2 = input("Give me the second number?")
 
 

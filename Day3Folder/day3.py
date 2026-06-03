@@ -14,6 +14,7 @@ print(title + name + "commands the paesants to" + command + "!.")
 num_pen = int(input("num of pens?"))           
 
 
+
 ########################################################################
 # Task 3:
 

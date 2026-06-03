@@ -96,10 +96,10 @@ else:
 real_password = "passme"
 for i in range(3):
     user_password = input("what is the password? ")
-if real_password == user_password:
-    print("Access Granted!")
-else:
-    print("Access Denied")
+    if real_password == user_password:
+        print("Access Granted!")
+    else:
+        print("Access Denied")
 ########################################################################
 # Task 7:
 

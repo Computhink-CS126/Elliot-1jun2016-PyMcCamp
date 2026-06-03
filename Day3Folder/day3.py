@@ -22,7 +22,7 @@ print("hello from day3")
 num1 = int(input("Give me the first number?"))
 num2 = int(input("Give me the second number?"))
 
-sum = num1
+sum = num1 + num2
 
 
 

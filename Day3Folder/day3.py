@@ -101,6 +101,7 @@ for i in range(3):
         break
     else:
         print("Access Denied")
+print("System has been locked out")
 ########################################################################
 # Task 7:
 

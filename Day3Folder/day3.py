@@ -93,18 +93,18 @@ print("hello from day3")
 
 ########################################################################
 # Task 6:
-real_password = "passme"
-tries = 0
-for i in range(3):
-    user_password = input("what is the password? ")
-    if real_password == user_password:
-        print("Access Granted!")
-        break
-    else:
-        print("Access Denied")
-        tries = tries + 1
-if tries == 3:
-    print("System has been locked out")
+# real_password = "passme"
+# tries = 0
+# for i in range(3):
+#     user_password = input("what is the password? ")
+#     if real_password == user_password:
+#         print("Access Granted!")
+#         break
+#     else:
+#         print("Access Denied")
+#         tries = tries + 1
+# if tries == 3:
+#     print("System has been locked out")
 ########################################################################
 # Task 7:
 import random

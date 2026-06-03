@@ -13,7 +13,7 @@ print("hello from day3")
 # Task 2:
 name = input("What is your name?")
 num_pen = int(input("num of pens?")) 
-print(name + " bought" + num_pen + "")
+print(name + " bought" + num_pen + " pens")
 
 
 

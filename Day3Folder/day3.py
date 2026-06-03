@@ -19,12 +19,12 @@ print("hello from day3")
 
 ########################################################################
 # Task 3:
-num1 = int(input("Give me the first number?"))
-num2 = int(input("Give me the second number?"))
+# num1 = int(input("Give me the first number?"))
+# num2 = int(input("Give me the second number?"))
 
-sum = num1 + num2
+# sum = num1 + num2
 
-print(str(num1) + " + " +  str(num2) + " = " + str(sum))
+# print(str(num1) + " + " +  str(num2) + " = " + str(sum))
 
 
 ########################################################################

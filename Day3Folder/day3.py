@@ -98,6 +98,7 @@ for i in range(3):
     user_password = input("what is the password? ")
     if real_password == user_password:
         print("Access Granted!")
+        break
     else:
         print("Access Denied")
 ########################################################################

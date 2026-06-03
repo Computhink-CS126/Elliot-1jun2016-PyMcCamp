@@ -24,7 +24,7 @@ num2 = int(input("Give me the second number?"))
 
 sum = num1 + num2
 
-
+print()
 
 
 ########################################################################

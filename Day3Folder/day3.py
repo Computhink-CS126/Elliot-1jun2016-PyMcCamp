@@ -120,12 +120,10 @@ num1 = random.randint(1,100)
 num2 = random.randint(1,100)
 real_ans = num1 + num2
 user_ans = int(input(str(num1) + " + " +  str(num2)))
-
 if real_ans == user_ans:
     print("you are smart")
 else:
-    print("Wrong a"
-    )    
+    print("Wrong answer")    
 
 
 

@@ -115,8 +115,8 @@ print("hello from day3")
 
 ########################################################################
 # Task 8:
-import random
-
+import random 
+num1 = rando.randit
 
 ########################################################################
 # Additional exercises:

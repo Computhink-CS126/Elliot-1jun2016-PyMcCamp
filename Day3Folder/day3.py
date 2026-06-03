@@ -109,7 +109,8 @@ print("hello from day3")
 # Task 7:
 import random
 rand_num = random.randint(1, 100)
-
+for i in range(10):
+    print
 
 ########################################################################
 # Task 8:

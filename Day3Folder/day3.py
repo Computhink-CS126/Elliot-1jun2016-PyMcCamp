@@ -116,7 +116,7 @@ print("hello from day3")
 ########################################################################
 # Task 8:
 import random 
-num1 = rando.randint
+num1 = rando.randint(1,)
 
 ########################################################################
 # Additional exercises:

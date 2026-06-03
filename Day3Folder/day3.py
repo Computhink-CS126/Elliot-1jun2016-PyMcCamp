@@ -41,6 +41,7 @@ age1 = int(input("What is the age of person A"))
 age2 = int(input("What is the age of person b"))
 
 
+
 ########################################################################
 # Task 6:
 

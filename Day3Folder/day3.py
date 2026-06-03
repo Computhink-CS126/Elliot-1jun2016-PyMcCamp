@@ -11,9 +11,7 @@ command = input("What is your command?")
 print(title + name + "commands the paesants to" + command + "!.")                  
 ########################################################################
 # Task 2:
-num_pen = input(
-    'z'
-)           
+num_pen = input("num of pens?")           
 
 
 ########################################################################

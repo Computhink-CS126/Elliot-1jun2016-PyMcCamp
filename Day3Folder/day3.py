@@ -29,7 +29,7 @@ print("hello from day3")
 
 ########################################################################
 # Task 4:
-num_item = input("how many apples do you want,each cost $0.5: ") 
+num_item = input("how many apples do you want,each cost $0.5: ") #anything that is type into the terminal via input is string
 total_cost = 0.5 * num_item
 
 print(num_item + " apples cost $" + total_cost)

@@ -124,7 +124,7 @@ user_ans = int(input(str(num1) + " + " +  str(num2)))
 if real_ans == user_ans:
     print("you are smart")
 else:
-    print(""
+    print("Wrong a"
     )    
 
 

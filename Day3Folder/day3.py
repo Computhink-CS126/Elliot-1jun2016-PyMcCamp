@@ -40,8 +40,6 @@ print(str(num_item) + " apples cost $" + str(total_cost))
 age1 = int(input("What is the age of person A"))
 age2 = int(input("What is the age of person b"))
 
-''
-''
 
 ########################################################################
 # Task 6:

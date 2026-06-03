@@ -122,7 +122,8 @@ real_ans = num1 + num2
 user_ans = int(input(str(num1) + " + " +  str(num2)))
 
 if real_ans == user_ans:
-    print("you are ")
+    print("you are smart")
+    
 
 
 

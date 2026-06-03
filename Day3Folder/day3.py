@@ -110,6 +110,7 @@ print("hello from day3")
 import random
 rand_num = random.randint(1, 100)
 for i in range(10):
+    rand_num = random.randint(1, 100)
     print(rand_num)
 
 ########################################################################

@@ -37,9 +37,6 @@ print("hello from day3")
 # [5] apples cost $[5]
 ########################################################################
 # Task 5:
-age1 = int(input("What is the age of person A"))
-age2 = int(input("What is the age of person b"))
-# if age1 > age2
 
 ########################################################################
 # Task 6:a

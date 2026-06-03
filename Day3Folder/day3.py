@@ -94,7 +94,8 @@ else:
 ########################################################################
 # Task 6:
 real_password = "passme"
-user_password = input("what is the password? ")
+for i in range(3):
+    user_password = input("what is the password? ")
 if real_password == user_password:
     print("Access Granted!")
 else:

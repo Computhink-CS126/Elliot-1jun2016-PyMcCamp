@@ -38,6 +38,7 @@ print(str(num_item) + " apples cost $" + str(total_cost))
 ########################################################################
 # Task 5:
 age1 = int(input("What is the age of person A"))
+age1 = int(input("What is the age of person A"))
 
 
 ########################################################################

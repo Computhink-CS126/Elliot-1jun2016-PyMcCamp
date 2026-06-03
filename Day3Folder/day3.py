@@ -21,7 +21,7 @@ print("hello from day3")
 # Task 3:
 # num1 = int(input("Give me the first number?"))
 # num2 = int(input("Give me the second number?"))
-
+#anything that is type into the terminal via input is string
 # sum = num1 + num2
 
 # print(str(num1) + " + " +  str(num2) + " = " + str(sum))
@@ -29,7 +29,7 @@ print("hello from day3")
 
 ########################################################################
 # Task 4:
-num_item = input("how many apples do you want,each cost $0.5: ") #anything that is type into the terminal via input is string
+num_item = input("how many apples do you want,each cost $0.5: ") 
 total_cost = 0.5 * num_item
 
 print(num_item + " apples cost $" + total_cost)

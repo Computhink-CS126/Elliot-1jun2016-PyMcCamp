@@ -11,9 +11,9 @@ print("hello from day3")
 # print(title + name + "commands the paesants to" + command + "!.")                  
 ########################################################################
 # Task 2:
-name = input("What is your name?")
-num_pen = int(input("num of pens?")) 
-print(name + " bought " + str(num_pen) + " pens")
+# name = input("What is your name?")
+# num_pen = int(input("num of pens?")) 
+# print(name + " bought " + str(num_pen) + " pens")
 
 
 

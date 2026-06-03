@@ -107,11 +107,11 @@ print("hello from day3")
 #     print("System has been locked out")
 ########################################################################
 # Task 7:
-import random
+# import random
 
-for i in range(10):
-    rand_num = random.randint(1, 100)
-    print(rand_num)
+# for i in range(10):
+#     rand_num = random.randint(1, 100)
+#     print(rand_num)
 
 ########################################################################
 # Task 8:
